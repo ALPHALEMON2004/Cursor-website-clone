@@ -2,10 +2,11 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    
    
 }
 body{
-    background-color: rgba(21, 19, 19, 0.966);
+    background-color: #151313;
     font-family:  sans-serif;
 
 }
@@ -16,6 +17,8 @@ body{
     justify-content: space-between ;
     padding-top: 15px;
     position: sticky;
+    top: 0;
+    background-color: #151313;
 
 }
 .navlinks{
@@ -42,7 +45,7 @@ body{
     align-items: center;
     padding-bottom: 14px;
     gap: 10px;
-    padding-right: 35px;
+    padding-right: 20px;
 }
 #sale1{
     color: white;
